@@ -65,7 +65,7 @@ This project uses three open datasets, all included inside the **resources** fol
 
 ---
 
-## 🧠 Final Insights
+## 🧠 Final thoughts
 
 - **North African countries** generally show **high electricity access**, but they remain **highly dependent on non-renewable energy sources**.
 - **Sub-Saharan African countries** tend to have **strong renewable energy shares**, yet **low electricity access**, creating a large energy gap.
